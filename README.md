@@ -8,7 +8,7 @@
 - 🧪 Experienced as a Software Tester Intern at Gosoft (Thailand), focusing on POS application testing, test case design, defect reporting, database validation, and retail transaction flows  
 - 🤖 Currently developing a Senior Project: P'Gen N'Tam, a Mathematical Chatbot AI Web Application powered by LLMs for step-by-step problem solving and learning guidance  
 - 🌱 Currently developing skills in English language and software development
-- 🎯 Goal: Apply knowledge to real-world projects, learn from professional teams, and contribute to creating high-quality software.
+- 🎯 Goal: Be a better person than you were yesterday.
 
 ---
 
