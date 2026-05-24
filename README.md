@@ -1,12 +1,11 @@
-# Hello, I'm Cinn👋
+# Hello, I'm Arun👋
 
 
 ## 🚀 About Me
 
 - 🎓 4th-year Computer Engineering and Artificial Intelligence student at Panyapiwat Institute of Management  
 - 💻 Interested in Data, Software Development and AI 
-- 🧪 Experienced as a Software Tester Intern at Gosoft (Thailand), focusing on POS application testing, test case design, defect reporting, database validation, and retail transaction flows  
-- 🤖 Currently developing a Senior Project: P'Gen N'Tam, a Mathematical Chatbot AI Web Application powered by LLMs for step-by-step problem solving and learning guidance  
+- 🧪 Experienced as a Software Tester Intern at Gosoft (Thailand), focusing on POS application testing, test case design, defect reporting, database validation, and retail transaction flows    
 - 🌱 Currently developing skills in English language and software development
 - 🎯 Goal: Be a better person than you were yesterday.
 
@@ -17,20 +16,9 @@
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 
 ### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
