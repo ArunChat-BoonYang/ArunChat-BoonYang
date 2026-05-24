@@ -35,7 +35,6 @@
 
 ### Security & Analysis Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 ![WebServer Stress Tool](https://img.shields.io/badge/WebServer_Stress_Tool-555555?style=for-the-badge&logo=speedtest&logoColor=white)
 
 ### AI
@@ -50,17 +49,11 @@
 ### DevOps & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bizagi Modeler](https://img.shields.io/badge/Bizagi_Modeler-F28C28?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![VNC](https://img.shields.io/badge/VNC-Remote_Access-2E3440?style=for-the-badge&logo=anydesk&logoColor=white)
 ![IBM Lotus Notes](https://img.shields.io/badge/IBM_Lotus_Notes-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
-
-## 📌 Featured Project Areas
-
----
-
 
 ## 🌱 Currently Learning
 
