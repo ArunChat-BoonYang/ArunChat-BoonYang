@@ -4,9 +4,7 @@
 ## 🚀 About Me
 
 - 🎓 4th-year Computer Engineering and Artificial Intelligence student at Panyapiwat Institute of Management  
-- 💻 Interested in Data, Software Development and AI 
 - 🧪 Experienced as a Software Tester Intern at Gosoft (Thailand), focusing on POS application testing, test case design, defect reporting, database validation, and retail transaction flows    
-- 🌱 Currently developing skills in English language and software development
 - 🎯 Goal: Be a better person than you were yesterday.
 
 ---
@@ -21,11 +19,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SSMS](https://img.shields.io/badge/SSMS-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
